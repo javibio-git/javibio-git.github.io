@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Javi
+title: Carpinteyro-Ponce
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -43,7 +43,9 @@ profiles:
     url: https://orcid.org/0009-0005-2865-1475
 
 interests:
-  - Evolutionary Genomics
+  - Population Genomics
+  - Speciation Genomics
+  - Multi-omics data integration
   - Bioinformatics
   - Computational Biology
 
@@ -103,44 +105,34 @@ work:
         - Collaborated for developing traning resources on data science for undergraduate students
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Add your own SVG icons to 21`assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Bash
-        description: ''
-        percent: 80
-        icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Coding (Bash, Python, R, Perl)
         description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        icon: bash
+      - name: Nextflow
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: nextflow
+      - name: Containerization
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: docker
+      - name: HPC (High Performance Computing)
         description: ''
-        percent: 80
-        icon: camera
+        icon: server
+      - name: Cloud computing
+        description: ''
+        icon: cloud
 
 languages:
   - name: Spanish
-    percent: 100
+
   - name: English
-    percent: 100
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
