@@ -158,4 +158,4 @@ awards:
 
 ## About Me
 
-Javi is an evolutionary biologist and bioinformatician at the department of embryology of Carnegie Science BSE. His research interest is driven by a central question in evolutionary biology: How biological diversity is generated and/or maintained in the face of environmental constraints? I am particularly focused on understanding how the interplay of evolutionary forces, i.e natural selection, and intrinsic genomic factors such as recombination and mutation rates generate the vast diversity of the molecular machinery of life.
+Javi is an evolutionary biologist and bioinformatician at the department of embryology of Carnegie Science BSE. His research interest is driven by a central question in evolutionary biology: How biological diversity is generated and/or maintained in the face of environmental constraints? I am particularly focused on understanding how the interplay of evolutionary forces, i.e natural selection, and intrinsic genomic factors such as recombination and mutation rates shape the vast diversity of the molecular machinery of life.
