@@ -3,7 +3,7 @@
 title: Javi
 
 # Name pronunciation (optional)
-name_pronunciation: HA-vih
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Javier
