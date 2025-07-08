@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Carpinteyro-Ponce
+title: Javier Carpinteyro-Ponce
 
 # Name pronunciation (optional)
 name_pronunciation: ''
