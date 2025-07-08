@@ -1,0 +1,32 @@
+---
+title: Transcriptional responses of ecologically diverse Drosophila species to larval
+  diets differing in relative sugar and protein ratios
+authors:
+- Nestor O Nazario-Yepiz
+- Mariana Ramirez Loustalot-Laclette
+- Javier Carpinteyro-Ponce
+- Cei Abreu-Goodger
+- Therese Ann Markow
+date: '2017-08-01'
+publishDate: '2025-07-08T18:23:28.814929Z'
+publication_types:
+- article-journal
+publication: '*PLoS One*'
+abstract: We utilized three ecologically diverse Drosophila species to explore the
+  influence of ecological adaptation on transcriptomic responses to isocaloric diets
+  differing in their relative proportions of protein to sugar. Drosophila melanogaster,
+  a cosmopolitan species that breeds in decaying fruit, exemplifies individuals long
+  exposed to a Western diet higher in sugar, while the natural diet of the cactophilic
+  D. mojavensis, is much lower in carbohydrates. Drosophila arizonae, the sister species
+  of D. mojavensis, is largely cactophilic, but also utilizes rotting fruits that
+  are higher in sugars than cacti. We exposed third instar larvae for 24 hours to
+  diets either (1) high in protein relative to sugar, (2) diets with equal amounts
+  of protein and sugar, and (3) diets low in protein but high in sugar. As we predicted,
+  based upon earlier interspecific studies of development and metabolism, the most
+  extreme differences in gene expression under different dietary conditions were found
+  in D. mojavensis followed by D. arizonae. No differential expression among diets
+  was observed for D. melanogaster, a species that survives well under all three conditions,
+  with little impact on its metabolism. We suggest that these three species together
+  provide a model to examine individual and population differences in vulnerability
+  to lifestyle-associated health problems such as metabolic syndrome and diabetes.
+---
