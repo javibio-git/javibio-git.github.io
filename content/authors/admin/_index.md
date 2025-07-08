@@ -113,13 +113,13 @@ skills:
         icon: chart-bar
       - name: Coding (Bash, Python, R, Perl)
         description: ''
-        icon: assets/media/icons/bash.svg
+        icon: bash.svg
       - name: Nextflow
         description: ''
-        icon: assets/media/icons/nextflow.svg
+        icon: nextflow.svg
       - name: Containerization
         description: ''
-        icon: assets/media/icons/docker.svg
+        icon: docker.svg
       - name: HPC (High Performance Computing)
         description: ''
         icon: server
