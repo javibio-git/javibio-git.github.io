@@ -36,14 +36,13 @@ sections:
       subtitle: ''
       text: |-
 
-        ### Evolution of symbiont genomes
+        - Evolution of symbiont genomes
 
-        ### Drosophila speciation genomics
+        - Drosophila speciation genomics
 
-        ### Multi-omics data science
-    
-        
-        Please reach out to collaborate 😃
+        - Protein evolution
+
+        - Multi-omics data science
     design:
       columns: '1'
   - block: collection

@@ -46,8 +46,7 @@ interests:
   - Population Genomics
   - Speciation Genomics
   - Multi-omics data integration
-  - Bioinformatics
-  - Computational Biology
+  - Teaching and Training
 
 education:
   - area: PhD Biological Sciences
@@ -114,13 +113,13 @@ skills:
         icon: chart-bar
       - name: Coding (Bash, Python, R, Perl)
         description: ''
-        icon: bash
+        icon: assets/media/icons/bash.svg
       - name: Nextflow
         description: ''
-        icon: nextflow
+        icon: assets/media/icons/nextflow.svg
       - name: Containerization
         description: ''
-        icon: docker
+        icon: assets/media/icons/docker.svg
       - name: HPC (High Performance Computing)
         description: ''
         icon: server
@@ -158,4 +157,4 @@ awards:
 
 ## About Me
 
-Javi is an evolutionary biologist and bioinformatician at the department of embryology of Carnegie Science BSE. His research interest is driven by a central question in evolutionary biology: How biological diversity is generated and/or maintained in the face of environmental constraints? I am particularly focused on understanding how the interplay of evolutionary forces, i.e natural selection, and intrinsic genomic factors such as recombination and mutation rates shape the vast diversity of the molecular machinery of life.
+I am a biologist and a bioinformatics researcher driven by a central question in evolutionary biology: How biological diversity is generated and maintained in the face of environmental constraints? As a biologist I am particularly interesed in understanding the interplay of natural selection and intrinsic genomic factors in shaping the diversity of the molecular machinery of life. As a bioinformatician I am interested in developing and applying computational methods to integrate and analyze large-scale genomic data, with the goal of uncovering the underlying mechanisms of genomic evolution.
