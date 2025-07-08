@@ -7,11 +7,11 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Javier
-last_name: Carpinteyro Ponce
+last_name: Carpinteyro-Ponce
 
 # Status emoji
 status:
-  icon: 👨🏽‍💻🧬
+  icon: 🧬
 
 # Is this the primary user of the site?
 superuser: true
