@@ -96,7 +96,7 @@ work:
     company_url: 'https://science.c-moor.org/'
     company_logo: ''
     date_start: 2023-08-30
-    date_end:''
+    date_end: ''
     summary: |
       Responsabilities include:
         - Develop R data packages
