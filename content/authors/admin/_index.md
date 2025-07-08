@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Javi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: HA-vih
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Javier
+last_name: Carpinteyro Ponce
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨🏽‍💻🧬
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,99 +20,94 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Bioinformatics Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Carnegie Science
+    url: https://carnegiescience.edu/bse
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jcarpinteyro@carnegiescience.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/javibio-git
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/javier-carpinteyro-ponce
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=kqba_HwAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0005-2865-1475
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evolutionary Genomics
+  - Bioinformatics
+  - Computational Biology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biological Sciences
+    institution: University of Maryland
+    date_start: 2015-08-14
+    date_end: 2023-05-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on the genomics of species divergence. Supervised by [Prof Carlos A. Machado](https://machado-lab-umd.github.io/).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://drum.lib.umd.edu/items/cab9228d-7a58-43f0-848e-732df7899b4b'
+  - area: MSc Plant Biotechnology
+    institution: Cinvestav, Unidad de Genomica Avanzada
+    date_start: 2013-08-14
+    date_end: 2015-07-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on the genomics of bacterial diversity associated with wild populations of cactophilic Drosophila. Supervised by [Prof Therese A. Markow](https://labs.biology.ucsd.edu/markow/) and [Prof Nancy A. Moran](https://web.biosci.utexas.edu/moran/).
+  - area: BSc Biology
+    institution: Benemerita Universidad Autonoma de Puebla
+    date_start: 2006-08-01
+    date_end: 2011-06-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis dissertation on the evolution of symbiont genomes. Supervised by [Dr. Luis Jose Delaye Arredondo](https://www.cinvestav.mx/irapuato/investigacion/directorio-de-investigacion/luis-jos233-delaye-arredondo)
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Bioinformatics Research Associate
+    company_name: Carnegie Science
+    company_url: 'https://carnegiescience.edu/bse'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-08-30
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Provide bioinformatics support to experimental research groups
+      - Development and deployment of reproducible and scalable computational pipelines
+      - Bioinformatics training
+  - position: Bioinformatics Associate
+    company_name: AnVIL
+    company_url: 'https://anvilproject.org/'
+    company_logo: 'https://anvilproject.org/consortia/logos/logoAnvil.png'
+    date_start: 2024-07-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Provide user support in the AnVIL support forum
+      - Develop training resources
+  - position: Developer
+    company_name: C-MOOR
+    company_url: 'https://science.c-moor.org/'
+    company_logo: ''
+    date_start: 2023-08-30
+    date_end:''
+    summary: |
+      Responsabilities include:
+        - Develop R data packages
+        - Collaborated for developing traning resources on data science for undergraduate students
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Bash
         description: ''
         percent: 80
         icon: code-bracket
@@ -142,45 +137,33 @@ skills:
         icon: camera
 
 languages:
+  - name: Spanish
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Nextflow Ambassador
+    url: https://www.nextflow.io/ambassadors.html
+    date: '2025-07-08'
+    awarder: Nextflow
+    icon: nextflow
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Nextflow is a data-driven workflow management system that enables scalable and reproducible scientific workflows using software containers. As an ambassador, I am committed to promoting the use of Nextflow in the scientific community, sharing knowledge, and supporting users in their journey to adopt this powerful tool.
+  - title: Carpentries Certified Instructor
+    url: https://blog.bioconductor.org/posts/2023-02-24-carpentries-update/
+    date: '2023-06-22'
+    awarder: Bioconductor Carpentries global training program
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      The Carpentries is a global community that teaches foundational coding and data science skills to researchers worldwide. As a certified instructor, I am dedicated to teaching and promoting best practices in data science, ensuring that researchers have the skills they need to succeed in their work.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Javi is an evolutionary biologist and bioinformatician at the department of embryology of Carnegie Science BSE. His research interest is driven by a central question in evolutionary biology: How biological diversity is generated and/or maintained in the face of environmental constraints? I am particularly focused on understanding how the interplay of evolutionary forces, i.e natural selection, and intrinsic genomic factors such as recombination and mutation rates generate the vast diversity of the molecular machinery of life.
